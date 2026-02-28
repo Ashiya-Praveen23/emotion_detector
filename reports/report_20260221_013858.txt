@@ -1,0 +1,14 @@
+Emotion Analysis Report
+
+Angry: 0.00%
+Disgust: 1.64%
+Fear: 0.00%
+Happy: 62.30%
+Neutral: 34.43%
+Sad: 0.00%
+Surprise: 1.64%
+
+Overall Mood: HIGH VALENCE
+Final Emotion: Happy
+Stability Score: 62.30%
+Emotion is STABLE

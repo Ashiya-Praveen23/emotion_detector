@@ -1,0 +1,13 @@
+opencv-python
+tensorflow
+keras
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+torch
+facenet-pytorch
+pillow
+tqdm
+flask
